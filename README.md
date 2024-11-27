@@ -46,22 +46,22 @@ The Know Before You Go (KBYG) document contains practical information for everyo
 - [ ] Pick up the lead scanner.
 - [ ] Set up the booth backdrop / roll-up banner.
 - [ ] Prepare the booth with datasheets/flyers/stickers/swag.
-- [ ] Take lots of pictures. Share these on socials.
-- [ ] 
+- [ ] Take lots of pictures. Share these on social media.
 
 ## After the event
 
 - [ ] Write an [_Event Report_](#event-report-document) that summarizes the event.
 - [ ] Give feedback to the event organizers based on the event report.
 - [ ] Send post-event social messages thanking the organizers and attendees. Include some of the pictures.
+- [ ] If relevant sessions have been recorded on video, share them via social media once they are published.
 
 ### Event Report document
 
 Questions to answer in an event report:
 
+- Was the goal that you set met?
 - What went well?
 - What didn't go well?
-- Was the goal that you set met?
 - What are concrete improvement points for next time?
 - How many datasheets/stickers/swag were ordered. Was this enough?
 - What was the overal cost of sponsoring?
