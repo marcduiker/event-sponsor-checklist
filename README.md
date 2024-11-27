@@ -68,7 +68,6 @@ Questions to answer in an event report:
 - How many datasheets/stickers/swag were ordered. Was this enough?
 - What was the overal cost of sponsoring?
 - Is it worth sponsoring this event again?
-- 
 
 ## Contributing to this checklist
 
