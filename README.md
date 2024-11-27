@@ -16,8 +16,9 @@ This document contains tasks that are useful when you're sponsoring an event and
 - [ ] Design & order stickers.
 - [ ] If you have datasheets/flyers/stickers: order display stands for these so your booth stays tidy.
 - [ ] Find & order sustainable swag or prizes to give away at the booth.
+- [ ] Decide what is the _Best Next Step_ for a booth visitor once they talked to you? Do you point them to your website, do you want them to book a meeting? Prepare a document with QR codes or create an online form to facilitate these _Best Next Steps_.
 - [ ] Prepare a [_Know Before You Go_](#know-before-you-go-document) document and share this with the people who will staff the booth.
-- [ ] Decide what is the best next step for a booth visitor once they talked to you? Do you point them to your website, do you want them to book a meeting? Prepare a document with QR codes or create an online form to facilitate these best next steps.
+- [ ] Send calendar invites to the booth staff so they know when they should be at the booth. Include a link to the _Know Before You Go_ doc).
 - [ ] Set up lead scanning. Can the default scoring/questions be changed?
 - [ ] Label all the hardware that you'll bring to the booth with company name / email. Ensure everything is insured.
 - [ ] If the booth staff are staying overnight, schedule a team dinner for them.
@@ -40,6 +41,7 @@ The Know Before You Go (KBYG) document contains practical information for everyo
 - How to start a conversation when attendees stop by the booth.
   - Questions to find out if the attendee is part of your target audience.
   - Concrete examples of how your product/service is helping organizations. Use specific numbers to indicate increase in efficiency or reduction in cost.
+- Describe the _Next Best Steps_ for your audience.
 
 ## During the event
 
@@ -66,3 +68,8 @@ Questions to answer in an event report:
 - How many datasheets/stickers/swag were ordered. Was this enough?
 - What was the overal cost of sponsoring?
 - Is it worth sponsoring this event again?
+- 
+
+## Contributing to this checklist
+
+Do you have more tasks that can be included in this list? Submit a PR please! 🙏
