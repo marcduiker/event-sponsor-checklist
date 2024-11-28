@@ -5,9 +5,9 @@ This document contains tasks that are useful when you're sponsoring an event and
 ## Before the event
 
 - [ ] Write down what the goal is for sponsoring the event and inform everyone involved about this goal.
-- [ ] Review the event Code of Conduct (CoC) and make sure you have contact information of the CoC team in case you need it.
+- [ ] Check if the event has a Code of Conduct (CoC) with contact information.
 - [ ] Sign up to sponsor the event.
-- [ ] Pay for the sponsor package.
+- [ ] Pay for the sponsorship.
 - [ ] Order additional booth equipment (monitors) or furniture (tables/desks/laptop stands).
 - [ ] Order laptops/tablets for demos/presentations.
 - [ ] Design & order a booth backdrop or roll-up banner.
@@ -23,6 +23,7 @@ This document contains tasks that are useful when you're sponsoring an event and
 - [ ] Label all the hardware that you'll bring to the booth with company name / email. Ensure everything is insured.
 - [ ] If the booth staff are staying overnight, schedule a team dinner for them.
 - [ ] Setup a group chat for the booth staff using your fav communication tool that everyone has on their phone. Use this to quickly get in touch with each other.
+- [ ] Things to bring to the event:  breath mints, toothbrush, pain killers, blister patches, band aids, Dextro energy tablets.
 
 ### Know Before You Go document
 
@@ -32,13 +33,13 @@ The Know Before You Go (KBYG) document contains practical information for everyo
   - Event website
   - Google Maps of the venue location
   - Code of Conduct of the event
-- Contact details of event organizers, sponsor/technical support.
+- Contact details of event organizers, sponsor/technical support, code of conduct team.
 - The booth schedule: who will be on the booth, on which days including start and end times.
   - Include when the breaks between sessions are, since those are the busiest times at the booth.
   - Who will set up the booth?
   - Who will break down the booth?
   - Who will pick up and return the lead scanner?
-- How to start a conversation when attendees stop by the booth.
+- Prepare a script how to start a conversation when attendees stop by the booth.
   - Questions to find out if the attendee is part of your target audience.
   - Concrete examples of how your product/service is helping organizations. Use specific numbers to indicate increase in efficiency or reduction in cost.
 - Describe the _Next Best Steps_ for your audience.
@@ -48,7 +49,9 @@ The Know Before You Go (KBYG) document contains practical information for everyo
 - [ ] Pick up the lead scanner.
 - [ ] Set up the booth backdrop / roll-up banner.
 - [ ] Prepare the booth with datasheets/flyers/stickers/swag.
-- [ ] Take lots of pictures. Share these on social media.
+- [ ] Talk to people who show interest. Don't harrass people just to get more badge scans. Be kind and act how *you* would like to be approached. Use the script(s) from the KBYG doc and use the _Best Next Steps_ that are suitable for the attendees.
+- [ ] Drink water and stay hydrated.
+- [ ] Take lots of pictures. Ask for consent if these pictures include event attendees. Share the pictures on social media during the day or immediately after.
 
 ## After the event
 
