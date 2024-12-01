@@ -15,6 +15,7 @@ This document contains tasks that are useful when you're sponsoring an event and
 - [ ] Order paper datasheets/flyers. Or choose the environmental consious option and use QR codes at the booth.
 - [ ] Design & order stickers.
 - [ ] If you have datasheets/flyers/stickers: order display stands for these so your booth stays tidy.
+- [ ] Create a slide deck or video to play on a big monitor at the booth (or do something fun and create a game!).
 - [ ] Find & order sustainable swag or prizes to give away at the booth.
 - [ ] Decide what is the _Best Next Step_ for a booth visitor once they talked to you? Do you point them to your website, do you want them to book a meeting? Prepare a document with QR codes or create an online form to facilitate these _Best Next Steps_.
 - [ ] Prepare a [_Know Before You Go_](#know-before-you-go-document) document and share this with the people who will staff the booth.
